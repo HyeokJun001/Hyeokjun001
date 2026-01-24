@@ -83,4 +83,6 @@ CT 없이 PET만으로 뇌를 분석하여 의료 비용을 절감하거나, 피
 * **Email**: yhjun5413@gmail.com
 * **TEL** : 010-2994-5413
 
-[![HyeokJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeokJun001&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeokJun001&layout=compact&theme=radical)
