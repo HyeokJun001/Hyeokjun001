@@ -12,7 +12,7 @@
 
 ### 프로모터 (promotor.kr) — 인력매칭 플랫폼
 - **역할**: 프론트엔드 설계 및 구현 총괄 / 개발팀장
-- **기술**: React, TypeScript
+- **기술**: React 19, JavaScript, Vite, TanStack Query, Tailwind CSS
 - 🔗 https://promotor.kr
 
 ### 솔이 (tarosoli.com) — 사주·타로 AI 상담 서비스
